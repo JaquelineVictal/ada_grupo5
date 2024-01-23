@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+  <!-- 3 filmes de preferência -->
+  <movie>
+    <title>O Rei Leão</title>
+    <year>1994</year>
+    <cast>
+      <actor>Rei Mufasa</actor>
+      <actor>Rainha Sarabi</actor>
+      <actor>Scar</actor>
+    </cast>
+    <genre>Infantil</genre>
+    <synopsis>Traído e exilado de seu reino, o leãozinho Simba precisa descobrir como crescer e retomar seu destino como herdeiro real nas planícies da savana africana.</synopsis>
+  </movie>
+
+  <movie>
+    <title>Inception</title>
+    <year>2010</year>
+    <cast>
+      <actor>Leonardo DiCaprio</actor>
+      <actor>Joseph Gordon-Levitt</actor>
+    </cast>
+    <genre>Sci-Fi</genre>
+    <synopsis>A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.</synopsis>
+  </movie>
+
+  <movie>
+    <title>Forrest Gump</title>
+    <year>1994</year>
+    <cast>
+      <actor>Tom Hanks</actor>
+      <actor>Robin Wright</actor>
+    </cast>
+    <genre>Comedia</genre>
+    <synopsis>Mesmo com o raciocínio lento, Forrest Gump nunca se sentiu desfavorecido. Graças ao apoio da mãe, ele teve uma vida normal. Seja no campo de futebol como um astro do esporte, lutando no Vietnã ou como capitão de um barco de pesca de camarão, Forrest inspira a todos com seu otimismo. Mas a pessoa que Forrest mais ama pode ser a mais difícil de salvar: seu amor de infância, a doce e perturbada Jenny.</synopsis>
+  </movie>
+
+  <!-- 3 livros de preferência -->
+  <book>
+    <title>Harry Potter e a Pedra Filosofal</title>
+    <author>J. K. Rowling</author>
+    <year>1997</year>
+    <genre>Fantasia</genre>
+    <pages>172</pages>
+  </book>
+
+  <book>
+    <title>Admirável Mundo Novo</title>
+    <author>Aldous Huxley</author>
+    <year>1932</year>
+    <genre>Ficção</genre>
+    <pages>312</pages>
+  </book>
+
+  <book>
+    <title>1984</title>
+    <author>George Orwell</author>
+    <year>1949</year>
+    <genre>Ficção</genre>
+    <pages>328</pages>
+  </book>
+
+  <!-- 3 comidas prediletas -->
+  <food>
+    <name>Pizza</name>
+    <ingredients>
+      <ingredient>Mussarela</ingredient>
+      <ingredient>Tomate</ingredient>
+      <ingredient>Manjericão</ingredient>
+      <ingredient>Azeitona</ingredient>
+    </ingredients>
+  </food>
+
+  <food>
+    <name>Sushi</name>
+    <ingredients>
+      <ingredient>Arroz</ingredient>
+      <ingredient>Nori</ingredient>
+      <ingredient>peixe</ingredient>
+    </ingredients>
+  </food>
+
+  <food>
+    <name>Bolo de Chocolate</name>
+    <ingredients>
+      <ingredient>Farinha</ingredient>
+      <ingredient>Açucar</ingredient>
+      <ingredient>Cacau em pó</ingredient>
+      <ingredient>Ovos</ingredient>
+    </ingredients>
+  </food>
+</preferences>
