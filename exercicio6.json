@@ -1,0 +1,76 @@
+{
+  "preferences": {
+    "movie": [
+      {
+        "title": "O Rei Leão",
+        "year": 1994,
+        "cast": {
+          "actor": ["Rei Mufasa", "Rainha Sarabi", "Scar"]
+        },
+        "genre": "Infantil",
+        "synopsis": "Traído e exilado de seu reino, o leãozinho Simba precisa descobrir como crescer e retomar seu destino como herdeiro real nas planícies da savana africana."
+      },
+      {
+        "title": "Inception",
+        "year": 2010,
+        "cast": {
+          "actor": ["Leonardo DiCaprio", "Joseph Gordon-Levitt"]
+        },
+        "genre": "Sci-Fi",
+        "synopsis": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O."
+      },
+      {
+        "title": "Forrest Gump",
+        "year": 1994,
+        "cast": {
+          "actor": ["Tom Hanks", "Robin Wright"]
+        },
+        "genre": "Comedia",
+        "synopsis": "Mesmo com o raciocínio lento, Forrest Gump nunca se sentiu desfavorecido. Graças ao apoio da mãe, ele teve uma vida normal. Seja no campo de futebol como um astro do esporte, lutando no Vietnã ou como capitão de um barco de pesca de camarão, Forrest inspira a todos com seu otimismo. Mas a pessoa que Forrest mais ama pode ser a mais difícil de salvar: seu amor de infância, a doce e perturbada Jenny."
+      }
+    ],
+    "book": [
+      {
+        "title": "Harry Potter e a Pedra Filosofal",
+        "author": "J. K. Rowling",
+        "year": 1997,
+        "genre": "Fantasia",
+        "pages": 172
+      },
+      {
+        "title": "Admirável Mundo Novo",
+        "author": "Aldous Huxley",
+        "year": 1932,
+        "genre": "Ficção",
+        "pages": 312
+      },
+      {
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "genre": "Ficção",
+        "pages": 328
+      }
+    ],
+    "food": [
+      {
+        "name": "Pizza",
+        "ingredients": {
+          "ingredient": ["Mussarela", "Tomate", "Manjericão", "Azeitona"]
+        }
+      },
+      {
+        "name": "Sushi",
+        "ingredients": {
+          "ingredient": ["Arroz", "Nori", "peixe"]
+        }
+      },
+      {
+        "name": "Bolo de Chocolate",
+        "ingredients": {
+          "ingredient": ["Farinha", "Açucar", "Cacau em pó", "Ovos"]
+        }
+      }
+    ]
+  }
+}
